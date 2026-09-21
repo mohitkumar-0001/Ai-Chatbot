@@ -2,6 +2,8 @@
 
 A simple and interactive AI Chatbot built using **HTML, CSS, JavaScript, and Google Gemini API**.
 
+![AI Chatbot Demo](chatbot-demo.png)
+
 ## ✨ Features
 
 - 💬 AI-powered chat
@@ -30,6 +32,5 @@ Ai-Chatbot/
 ├── user.jpg
 ├── loading.webp
 ├── img.svg
-└── submit.svg
-
-
+├── submit.svg
+└── chatbot-demo.png
