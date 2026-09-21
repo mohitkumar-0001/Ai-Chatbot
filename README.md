@@ -6,10 +6,10 @@ A simple and interactive AI Chatbot built using **HTML, CSS, JavaScript, and Goo
 
 - 💬 AI-powered chat
 - 🖼️ Image upload support
-- ⚡ Fast AI responses
 - ⌨️ Send messages using the Enter key
 - 🔄 Loading animation
-- 🎨 Clean and simple chat interface
+- 🎨 Clean and responsive chat interface
+- 🔗 Google Gemini API integration
 
 ## 🛠️ Technologies Used
 
@@ -31,44 +31,6 @@ Ai-Chatbot/
 ├── loading.webp
 ├── img.svg
 └── submit.svg
-```
 
-## 🚀 How to Run
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/mohitkumar-0001/Ai-Chatbot.git
-```
-
-2. Open the project folder in VS Code.
-
-3. Configure your Gemini API key in your local environment.
-
-4. Open `index.html` in your browser.
-
-## 🔐 API Key Security
-
-The Gemini API key is **not included in this public repository**.
-
-The `.env` file is excluded using `.gitignore`.
-
-**Never share your API key publicly.**
-
-## 🎯 What I Practiced
-
-This project helped me practice:
-
-- JavaScript DOM manipulation
-- Fetch API
-- API integration
-- Asynchronous JavaScript
-- File handling
-- Interactive UI development
-
-## 👨‍💻 Author
-
-**Mohit Kumar**
-
-GitHub:  
-https://github.com/mohitkumar-0001
+<img width="1917" height="1032" alt="Screenshot 2026-09-12 234821" src="https://github.com/user-attachments/assets/54e487d5-f23b-421f-9342-327c92e9cb8d" />
