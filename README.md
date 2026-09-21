@@ -33,4 +33,3 @@ Ai-Chatbot/
 └── submit.svg
 
 
-<img width="1917" height="1032" alt="Screenshot 2026-09-12 234821" src="https://github.com/user-attachments/assets/54e487d5-f23b-421f-9342-327c92e9cb8d" />
